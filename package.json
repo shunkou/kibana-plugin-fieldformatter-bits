@@ -1,6 +1,6 @@
 {
   "name": "kibana_plugin_fieldformatter_bits",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "kibana plugin to add fieldformatter type Bits",
   "main": "index.js",
   "scripts": {
